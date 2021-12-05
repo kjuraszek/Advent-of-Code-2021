@@ -64,4 +64,4 @@ submarine_v1 = SubmarineV1(_COMMANDS_FILE)
 print(f'Submarine V1 position: {submarine_v1.calculate_position()}')
 
 submarine_v2 = SubmarineV2(_COMMANDS_FILE)
-print(f'Submarine V2 position: {submarine_v1.calculate_position()}')
+print(f'Submarine V2 position: {submarine_v2.calculate_position()}')
